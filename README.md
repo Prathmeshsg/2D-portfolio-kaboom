@@ -40,4 +40,4 @@ cd 2D-portfolio
 Feel free to reach out if you have any questions or feedback!
 
 - Email: [Email](work.prathmeshgg@gmail.com)
-- LinkedIn: [LinkedIn]([work.prathmeshgg@gmail.com](https://www.linkedin.com/in/prathmesh-gandhale-44421a203/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/prathmesh-gandhale-44421a203/)
